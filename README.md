@@ -1,1 +1,1 @@
-# Melanoma-Detection-using-GANs
+# Melanoma Image Augmentation and classification
