@@ -22,3 +22,8 @@ Loss plot (first 360 epochs only) -
 
 
 ![](https://github.com/sm823zw/Melanoma-Image-Augmentation-and-classification/blob/main/Images/lossplot_label_smoothing.png)
+
+Example of synthetic generated malign samples -
+
+
+<img src="https://github.com/sm823zw/Melanoma-Image-Augmentation-and-classification/blob/main/Images/generated_malign.png" alt="drawing" width="500"/>
